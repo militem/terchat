@@ -1,2 +1,2 @@
 # terchat
-Python chat
+Python Chat
